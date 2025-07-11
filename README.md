@@ -3,7 +3,7 @@
 An interactive browser-based drum kit built with HTML, CSS, and JavaScript.  
 Click the buttons or press specific keys to play drum sounds in real time.
 
-## 🔧 Features
+# 🔧 Features
 
 - Keyboard and mouse support
 - Individual drum sounds for each key
